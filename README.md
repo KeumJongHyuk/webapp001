@@ -9,4 +9,4 @@
 7. 코드 복사
 8. github에서 새로운 repo만들기
 9. 복사한 코드 붙여넣기
-setting -> page -> main -> save
+10. setting -> page -> main -> save
